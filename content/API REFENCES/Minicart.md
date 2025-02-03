@@ -1,0 +1,4 @@
+Diagram
+INPUT
+OUTPUT
+BE
